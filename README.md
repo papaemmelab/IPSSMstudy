@@ -1,4 +1,4 @@
-# # Code and Data accompanying *Molecular International Prognostic Scoring System for Myelodysplastic Syndromes*
+#  **Code and Data accompanying** Bernard E, Tuechler H, Greenberg L.P., et al., *Molecular International Prognostic Scoring System for Myelodysplastic Syndromes*
 
 ![](./density.png)
 
@@ -19,7 +19,7 @@
 To clone this repository on your local computer please run:
 
 ```shell
-$ git clone https://github.com/papaemmelab/MDS-TP53-state
+$ git clone https://github.com/papaemmelab/IPSSMstudy
 ```
 
 
@@ -31,18 +31,18 @@ install.packages('ggplot2',      repos = 'http://cran.us.r-project.org')
 install.packages('survival',     repos = 'http://cran.us.r-project.org')
 install.packages('survminer',    repos = 'http://cran.us.r-project.org')
 install.packages('cmprsk',       repos = 'http://cran.us.r-project.org')
-install.packages('cowplot',       repos = 'http://cran.us.r-project.org')
-install.packages('dplyr',       repos = 'http://cran.us.r-project.org')
-install.packages('tidyr',       repos = 'http://cran.us.r-project.org')
-install.packages('ggsci',       repos = 'http://cran.us.r-project.org')
+install.packages('cowplot',      repos = 'http://cran.us.r-project.org')
+install.packages('dplyr',        repos = 'http://cran.us.r-project.org')
+install.packages('tidyr',        repos = 'http://cran.us.r-project.org')
+install.packages('ggsci',        repos = 'http://cran.us.r-project.org')
 install.packages('ggpubr',       repos = 'http://cran.us.r-project.org')
-install.packages('RColorBrewer',       repos = 'http://cran.us.r-project.org')
-install.packages('MetBrewer',       repos = 'http://cran.us.r-project.org')
+install.packages('RColorBrewer', repos = 'http://cran.us.r-project.org')
+install.packages('MetBrewer',    repos = 'http://cran.us.r-project.org')
 ```
 
 ```R
 # install the IPSS-M R package
-install.packages('devtools',       repos = 'http://cran.us.r-project.org')
+install.packages('devtools', repos = 'http://cran.us.r-project.org')
 library(devtools)
 install_github("papaemmelab/ipssm")
 ```
