@@ -1,4 +1,4 @@
-#  **Code and Data accompanying** Bernard E, Tuechler H, Greenberg L.P., et al., *Molecular International Prognostic Scoring System for Myelodysplastic Syndromes*
+#  **Code and Data accompanying** [Bernard E, Tuechler H, Greenberg PL, Hasserjian RP, Arango Ossa JE et al. **Molecular International Prognostic Scoring System for Myelodysplastic Syndromes**, *NEJM Evidence* 2022.](https://evidence.nejm.org/doi/full/10.1056/EVIDoa2200008)
 
 ![](./density.png)
 
