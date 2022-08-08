@@ -32,7 +32,7 @@ Details about descriptor are as follows:
 
 * :bar_chart: **`maf.tsv`**: mutation file.
 
-Each row corresponds to a given mutation in a given patient.
+Each row corresponds to a given mutation in a given patient. Those are curated likely oncogenic or oncogenic mutations.
 
 Details about mutation fields  are as follows:
 

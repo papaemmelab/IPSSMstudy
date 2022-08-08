@@ -44,7 +44,7 @@ install.packages('MetBrewer',    repos = 'http://cran.us.r-project.org')
 # install the IPSS-M R package
 install.packages('devtools', repos = 'http://cran.us.r-project.org')
 library(devtools)
-install_github("papaemmelab/ipssm")
+install_github("papaemmelab/ipssm", ref="master")
 ```
 
 ## :question: Question
