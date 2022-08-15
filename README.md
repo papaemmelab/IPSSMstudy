@@ -10,6 +10,8 @@
 
 - [IPSSM.html](./IPSSM.html): an html version of the notebook.
 
+- **`bed/`**: the target bed file (hg19) used for NGS capture in the study.
+
 
 ## :rocket: Getting started with this repository
 
